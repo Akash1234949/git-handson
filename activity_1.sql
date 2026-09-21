@@ -1,4 +1,4 @@
- 
+-- updated from GitHub 
 DROP TABLE IF EXISTS salesman ;
 CREATE TABLE salesman (
     salesman_id INT PRIMARY KEY,
